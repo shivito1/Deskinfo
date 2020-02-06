@@ -1,0 +1,2 @@
+# Deskinfo
+Display computer name.
